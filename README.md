@@ -111,12 +111,10 @@ To further improve the model's performance, especially on new, real-world data, 
 5.  **The trained model weights are provided in `plant_classification_model.pth`.**
 
 ## Output:
-
-## **Test Loss Of 1.2% & 97% Accuracy**
-
-![Screenshot 2025-04-06 191652](https://github.com/user-attachments/assets/85e8d777-2017-4463-b8e5-f5cafd54ea88)
-
 ## **Define, Load, Split Dataset**
 
 ![Screenshot 2025-04-06 191443](https://github.com/user-attachments/assets/30333392-3151-49fe-9327-2a6e6b6b9b65)
 
+## **Test Loss Of 1.2% & 97% Accuracy**
+
+![Screenshot 2025-04-06 191652](https://github.com/user-attachments/assets/85e8d777-2017-4463-b8e5-f5cafd54ea88)

@@ -9,11 +9,15 @@ Our final trained model achieved an impressive **97% accuracy** on the held-out 
 ## Project Structure
 
 ## Front End:
-The main project files and potential user interface components reside in the frontend environment at C:\Users\"*"\Plant_Test_Enviro, leveraging the backend's robust dependencies for model training and execution.
+   
+   The main project files and potential user interface components reside in the frontend environment at C:\Users\"*"\Plant_Test_Enviro, leveraging the backend's robust dependencies for model training and execution.
+
 ![image](https://github.com/user-attachments/assets/ad3cf2c7-c636-4236-8425-29a86d90a6e5)
 
 ## Back End:
+
 This project utilizes a dedicated backend environment, located at C:\Users\jared\anaconda3\envs\DeepLearning_PlantClass_39, which houses the necessary Python installation and deep learning libraries like PyTorch and torchvision, including the pre-trained ResNet models. (10+gb) **THESE ARE TOO LARGE TO PUSH TO GITHUB**
+
 ![image](https://github.com/user-attachments/assets/f425f589-a587-4fa2-9d91-fc7647b61d98)
 
 ## Dataset

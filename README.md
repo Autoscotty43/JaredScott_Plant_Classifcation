@@ -8,10 +8,10 @@ Our final trained model achieved an impressive **97% accuracy** on the held-out 
 
 ## Project Structure
 
-Front End:
+**Front End:**
 ![image](https://github.com/user-attachments/assets/ad3cf2c7-c636-4236-8425-29a86d90a6e5)
 
-Back End:
+**Back End:**
 ![image](https://github.com/user-attachments/assets/f425f589-a587-4fa2-9d91-fc7647b61d98)
 
 ## Dataset
